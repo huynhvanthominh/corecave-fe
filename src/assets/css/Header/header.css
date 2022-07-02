@@ -1,0 +1,20 @@
+.mainslider.home .wrap-heading .content {
+  padding-top: 120px;
+}
+.home-1 .flat-title-page {
+  height: 760px !important;
+}
+.mainslider.home .flat-slider {
+  padding: 0 80px;
+}
+.row-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.main-nav ul.menu .menu-item.active a {
+  color: #5142fc;
+}
+.main-nav{
+  margin-left: -300px;
+}

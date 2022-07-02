@@ -1,0 +1,14 @@
+.card-media {
+  min-height: 300px;
+  max-height: 350px;
+}
+.featured-countdown span {
+  font-size: 14px;
+}
+.sc-card-product {
+  min-height: 420px;
+  max-height: 520px;
+}
+.sc-card-product.comingsoon {
+  min-height: 520px;
+}
