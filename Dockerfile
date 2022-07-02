@@ -8,8 +8,7 @@ RUN npm install
 COPY . .
 RUN ls -a
 
-RUN echo $BRANCH
-RUN cp .env.${BRANCH} .env
+RUN cp .env.main .env
 
 RUN npm run build
 RUN ls -a /app/build
